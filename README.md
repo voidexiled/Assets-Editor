@@ -1,4 +1,4 @@
-# Assets Editor V2
+# Assets Editor V2.1
 
 Assets Editor is an open-source tool designed for modifying and managing client assets for both Tibia 12+ and Tibia 1098.
 
@@ -23,10 +23,10 @@ Assets Editor is an open-source tool designed for modifying and managing client 
 
 #### Prerequisites
 
-- [.NET Framework 6.0]
+- [.NET Framework 8.0]
 
 #### Usage
-- Download the latest release from the [Releases](https://github.com/Arch-Mina/Assets-Editor/releases) page.
+- Download the latest release from the [Releases](https://github.com/voidexiled/Assets-Editor/releases) page.
 
 :sparkles: **Supporting the Project**
 
